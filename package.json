@@ -1,0 +1,14 @@
+{
+  "name": "http-caching-explorer",
+  "version": "1.0.0",
+  "description": "Exploring HTTP headers, query parameters and caching with JavaScript and Express.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Mohini Meherin",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
